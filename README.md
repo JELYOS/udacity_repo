@@ -1,4 +1,4 @@
-list git commands:
+###list git commands:
 	*git init
 	*git status
 	*git clone
@@ -11,4 +11,5 @@ list git commands:
 	*git branch
 	*git reset
 	*git checkout
-
+	*git log --oneline
+###
